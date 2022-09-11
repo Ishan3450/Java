@@ -1,0 +1,4 @@
+To Run any Java Application You Have to first open cmd and then-->
+
+Step 1: javac nameOfTheProgram.java
+Step 2: java nameOfTheProgram.java
