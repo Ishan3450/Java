@@ -1,0 +1,20 @@
+Data Types 
+	> Primitive 
+		> Boolean
+			> boolean 
+		> Numeric
+			> Character
+				> char
+			> Integral
+				> Integer
+					> byte
+					> short
+					> long
+					> int
+				> Float
+					> double
+					> float
+	> Reference
+		> Class
+		> Interface
+		> Arrays
